@@ -31,3 +31,13 @@ foo foo foo
 fooo foo foo
 abc abc def
 abc abc abc abc
+
+my_variable
+_private_var
+myVariable
+_privateVar2
+
+$12
+$1.78
+23
+$.123
